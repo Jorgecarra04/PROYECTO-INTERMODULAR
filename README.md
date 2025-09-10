@@ -1,6 +1,6 @@
-# PROYECTO-INTERMODULAR
+# PROYECTO-INTERMODULAR CSI2
 
-**Gestor de Tareas Inteligente**
+**Gestor de Tareas **
 
 ## Integrantes
 
