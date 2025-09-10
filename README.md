@@ -1,5 +1,10 @@
 # PROYECTO-INTERMODULAR
 
-# JORGE CARRAMOLINO VELA
-# ANGELA GOMEZ LOPEZ
-# PAULA DELGADO PINTADO
+**Gestor de Tareas Inteligente**
+
+## Integrantes
+
+- Jorge Carramolino Vela
+- Ángela Gómez López
+- Paula Delgado Pintado
+
