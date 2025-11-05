@@ -1,6 +1,6 @@
 # PROYECTO-INTERMODULAR CSI2
 
-**Gestor de Tareas **
+APLICACIÓN SNAKE
 
 ## Integrantes
 
